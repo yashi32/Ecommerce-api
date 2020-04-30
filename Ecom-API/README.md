@@ -6,7 +6,7 @@
 <h2>Install Dependices</h2>
 <ul>
   <li> npm install express</li>
-  <l1> npm install express<li>
+  <li> npm install express<li>
 </ul>
 
 <h2> Start the app</h2>
